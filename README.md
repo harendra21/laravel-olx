@@ -18,6 +18,17 @@
     <li>Multiple product image upload</li>
 </ul>
 
+
+<h4>How to use code </h4>
+<ul>
+    <li>Clone or Download this repo</li>
+    <li>Open terminal and rum "composer update" (Make sure composer is installed)</li>
+    <li>Import Database from db.sql file in root</li>
+    <li>Edit .env file to setup database connection</li>
+    <li>Run "php artisan serve"</li>
+    <li>Open "localhost:8000" in your browser</li>
+</ul>
+
 <h4>Todo </h4>
 <ul>
     <li>Ui Improvements</li>
