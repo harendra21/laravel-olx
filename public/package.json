@@ -1,0 +1,18 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-fileinput": "^5.0.8",
+    "bootstrap-quill": "^0.1.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
